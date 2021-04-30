@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ccbdea7-c29d-4bcb-8d37-649bcd99ddf6" name="Default Changelist" comment="Suppression du boutton contact en début de page">
+    <list default="true" id="1ccbdea7-c29d-4bcb-8d37-649bcd99ddf6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -45,7 +45,7 @@
       <updated>1619528992633</updated>
       <workItem from="1619528993838" duration="13000" />
       <workItem from="1619529013294" duration="278000" />
-      <workItem from="1619529495364" duration="23220000" />
+      <workItem from="1619529495364" duration="23568000" />
     </task>
     <task id="LOCAL-00001" summary="Project initial">
       <created>1619529606305</created>
@@ -201,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619781556920</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Suppression de boutton de contact en début (1) et en milieu de page (2)">
+      <created>1619782088116</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1619782088116</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +235,7 @@
     <MESSAGE value="Allègement des images" />
     <MESSAGE value="Allègement des images(index.html), supression de l'ajout &quot;async&quot; car bloque l'agrandissement des images lors du clique, supression de background color blue inutile en arrière plan d'image, d-bloc et white couleur blanche enlever aussi,lien &lt;a&gt; pour les icones dans le footer enlever car inutile.&#10;&#10;Suppression de class pour une couleur blanche (contact.html),&#10;&#10;Supression au niveau du css du bleu et blanc" />
     <MESSAGE value="supression du lien de la page d'accueil lié à l'onglet &quot;Accueil&quot; de menu navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="supression du lien de la page d'accueil lié à l'onglet &quot;Accueil&quot; de menu navigation" />
+    <MESSAGE value="Suppression de boutton de contact en début (1) et en milieu de page (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Suppression de boutton de contact en début (1) et en milieu de page (2)" />
   </component>
 </project>
