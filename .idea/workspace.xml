@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ccbdea7-c29d-4bcb-8d37-649bcd99ddf6" name="Default Changelist" comment="">
+    <list default="true" id="1ccbdea7-c29d-4bcb-8d37-649bcd99ddf6" name="Default Changelist" comment="contact: changement du &quot;alt&quot; pour le logo&#10;&#10;index: suppression de css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <updated>1619528992633</updated>
       <workItem from="1619528993838" duration="13000" />
       <workItem from="1619529013294" duration="278000" />
-      <workItem from="1619529495364" duration="28806000" />
+      <workItem from="1619529495364" duration="34699000" />
     </task>
     <task id="LOCAL-00001" summary="Project initial">
       <created>1619529606305</created>
@@ -237,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619793123600</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Ajout de defer sur tout les scripts">
+      <created>1619797393411</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1619797393411</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +278,7 @@
     <MESSAGE value="index: attribut &quot;alt&quot; modifié pour les images&#10;&#10;contact: ajout de l'attribut &quot;for&quot; pour &quot;label&quot;&#10;suppression du lien ajouter sur les icones car inutile." />
     <MESSAGE value="ajout d'attribut au script de la page &quot;contact&quot;" />
     <MESSAGE value="suppression d'attribut au script de la page &quot;contact&quot;&#10;changement du type dans l'input" />
-    <option name="LAST_COMMIT_MESSAGE" value="suppression d'attribut au script de la page &quot;contact&quot;&#10;changement du type dans l'input" />
+    <MESSAGE value="Ajout de defer sur tout les scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de defer sur tout les scripts" />
   </component>
 </project>

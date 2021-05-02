@@ -590,8 +590,7 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn, {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757 !important;
@@ -630,7 +629,6 @@ p {
 
 .h1 {
     font-size: 20px;
-    font-family: "Open Sans";
 }
 
 .cta-hero {
@@ -1026,4 +1024,15 @@ h4 {
     .fortitle1{
         width: 45%;
     }
+}
+nav div a img {
+    height: 40px;
+}
+.colorblackfooter{
+    color: #343232;
+    font-family: "helvetica";
+    font-weight: 400;
+}
+.large{
+    width: 100px;
 }
