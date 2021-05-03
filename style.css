@@ -692,6 +692,8 @@ h4 {
 .black-background {
     background-color: #554730;
     padding: 40px 40px 40px 40px;
+    border: 0;
+    border-radius: 10px;
 }
 
 .bold-link {
@@ -710,10 +712,12 @@ h4 {
 .tc-white {
     color: #f4a985 !important;
 }
-
+.tc-black{
+    color: black !important;
+}
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF !important;
+    color: black !important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1036,3 +1040,7 @@ nav div a img {
 .large{
     width: 100px;
 }
+.colorh2{
+    color: #FFFFFF;
+}
+a:focus
