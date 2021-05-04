@@ -1040,7 +1040,17 @@ nav div a img {
 .large{
     width: 100px;
 }
-.colorh2{
-    color: #FFFFFF;
+.colorwhite{
+    color: #FFFFFF !important;
 }
 a:focus
+button:focus
+
+.positionfooter{
+    display: flex;
+    justify-content: center;
+}
+
+.h3center{
+    text-align: center;
+}
