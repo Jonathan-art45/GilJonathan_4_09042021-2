@@ -2525,6 +2525,11 @@ pre code {
         margin-left: 0
     }
 }
+.positionfoot{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 @media (min-width: 992px) {
     .col-md-1,

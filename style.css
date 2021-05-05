@@ -1046,11 +1046,6 @@ nav div a img {
 a:focus
 button:focus
 
-.positionfooter{
-    display: flex;
-    justify-content: center;
-}
-
 .h3center{
     text-align: center;
 }
