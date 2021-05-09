@@ -18,14 +18,6 @@ a:hover {
     cursor: pointer;
 }
 
-#page-loading-blocs-notifaction {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    width: 100%;
-    z-index: 100000;
-    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
-}
 
 .bloc {
     width: 100%;
@@ -90,10 +82,6 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
-    background: url("img/texture-paper.png");
-    background-size: 280px 280px;
-}
 
 .b-parallax {
     background-attachment: fixed;
@@ -107,7 +95,7 @@ a:hover {
     color: rgba(0, 0, 0, .7);
 }
 
-.d-bloc .panel icon {
+.d-bloc .panel {
     border-color: rgba(0, 0, 0, .7);
 }
 
@@ -582,20 +570,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-label,
-.btn, {
-    font-family: "helvetica";
-    font-weight: 400;
-    color: #575757 !important;
-}
-
 .container {
     max-width: 1000px;
 }
@@ -819,8 +793,8 @@ h4 {
     }
 
     .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+        padding-left: constant ( safe-area-inset-left ) ;
+        padding-right: constant ( safe-area-inset-right ) ;
     }
 
     .bloc-group,
