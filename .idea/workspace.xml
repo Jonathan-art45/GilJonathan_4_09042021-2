@@ -46,7 +46,7 @@
       <workItem from="1619528993838" duration="13000" />
       <workItem from="1619529013294" duration="278000" />
       <workItem from="1619529495364" duration="50527000" />
-      <workItem from="1620138336667" duration="17329000" />
+      <workItem from="1620138336667" duration="20197000" />
     </task>
     <task id="LOCAL-00001" summary="Project initial">
       <created>1619529606305</created>
@@ -335,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620568122388</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary=" changement propriété &quot;constant&quot; en &quot;env&quot; dans le fichier style">
+      <created>1620569971705</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1620569971705</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,8 +361,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changement : nom, lang, correction des links du head" />
-    <MESSAGE value="Changement : nom, correction des links du head,&#10;BlackHat enlever" />
     <MESSAGE value="BlackHat enlever&#10;début de mise en place de la structure" />
     <MESSAGE value="début de mise en place de la structure" />
     <MESSAGE value="mise en place du sitemap.xml" />
@@ -379,6 +384,8 @@
     <MESSAGE value="Changement au niveau bootstrap  pour le footer" />
     <MESSAGE value="Suppression de l'image &quot;texture paper&quot; et allègement d'images" />
     <MESSAGE value="Dernière correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dernière correction" />
+    <MESSAGE value=" changement propriété &quot;constant&quot; en &quot;env&quot;" />
+    <MESSAGE value=" changement propriété &quot;constant&quot; en &quot;env&quot; dans le fichier style" />
+    <option name="LAST_COMMIT_MESSAGE" value=" changement propriété &quot;constant&quot; en &quot;env&quot; dans le fichier style" />
   </component>
 </project>
