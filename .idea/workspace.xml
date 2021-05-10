@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ccbdea7-c29d-4bcb-8d37-649bcd99ddf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/et-line.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/et-line.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/blocs.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/blocs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/formHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/formHandler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/gmaps.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gmaps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.touchSwipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.touchSwipe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-2.1.0.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +46,7 @@
       <workItem from="1619528993838" duration="13000" />
       <workItem from="1619529013294" duration="278000" />
       <workItem from="1619529495364" duration="50527000" />
-      <workItem from="1620138336667" duration="24650000" />
+      <workItem from="1620138336667" duration="24941000" />
     </task>
     <task id="LOCAL-00001" summary="Project initial">
       <created>1619529606305</created>
@@ -372,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620652572784</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="minification des fichiers css et JS">
+      <created>1620655307928</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1620655307928</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +389,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Allègement des images" />
     <MESSAGE value="Allègement des images(index.html), supression de l'ajout &quot;async&quot; car bloque l'agrandissement des images lors du clique, supression de background color blue inutile en arrière plan d'image, d-bloc et white couleur blanche enlever aussi,lien &lt;a&gt; pour les icones dans le footer enlever car inutile.&#10;&#10;Suppression de class pour une couleur blanche (contact.html),&#10;&#10;Supression au niveau du css du bleu et blanc" />
     <MESSAGE value="supression du lien de la page d'accueil lié à l'onglet &quot;Accueil&quot; de menu navigation" />
     <MESSAGE value="Suppression de boutton de contact en début (1) et en milieu de page (2)" />
@@ -416,6 +413,7 @@
     <MESSAGE value=" changement propriété &quot;constant&quot; insérer dans un :root pour acceptation au W3C" />
     <MESSAGE value="Ajout du fichier .htaccess" />
     <MESSAGE value="minification de index contact et style" />
-    <option name="LAST_COMMIT_MESSAGE" value="minification de index contact et style" />
+    <MESSAGE value="minification des fichiers css et JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="minification des fichiers css et JS" />
   </component>
 </project>
