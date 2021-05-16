@@ -49,7 +49,7 @@
       <workItem from="1619529013294" duration="278000" />
       <workItem from="1619529495364" duration="50527000" />
       <workItem from="1620138336667" duration="23283000" />
-      <workItem from="1621161979421" duration="2520000" />
+      <workItem from="1621161979421" duration="3210000" />
     </task>
     <task id="LOCAL-00001" summary="Project initial">
       <created>1619529606305</created>
@@ -366,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621162121411</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="image centré pour les petits ecrans inférieur a 767px">
+      <created>1621164823746</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1621164823746</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +392,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Allègement des images" />
     <MESSAGE value="Allègement des images(index.html), supression de l'ajout &quot;async&quot; car bloque l'agrandissement des images lors du clique, supression de background color blue inutile en arrière plan d'image, d-bloc et white couleur blanche enlever aussi,lien &lt;a&gt; pour les icones dans le footer enlever car inutile.&#10;&#10;Suppression de class pour une couleur blanche (contact.html),&#10;&#10;Supression au niveau du css du bleu et blanc" />
     <MESSAGE value="supression du lien de la page d'accueil lié à l'onglet &quot;Accueil&quot; de menu navigation" />
     <MESSAGE value="Suppression de boutton de contact en début (1) et en milieu de page (2)" />
@@ -410,6 +416,7 @@
     <MESSAGE value=" changement propriété &quot;constant&quot; insérer dans un :root pour acceptation au W3C" />
     <MESSAGE value="Ajout du fichier .htaccess" />
     <MESSAGE value="minification du dossier bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="minification du dossier bootstrap" />
+    <MESSAGE value="image centré pour les petits ecrans inférieur a 767px" />
+    <option name="LAST_COMMIT_MESSAGE" value="image centré pour les petits ecrans inférieur a 767px" />
   </component>
 </project>
