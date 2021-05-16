@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ccbdea7-c29d-4bcb-8d37-649bcd99ddf6" name="Default Changelist" comment="">
+    <list default="true" id="1ccbdea7-c29d-4bcb-8d37-649bcd99ddf6" name="Default Changelist" comment="Minification style et index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/blocs.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/blocs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/formHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/formHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gmaps.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gmaps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-2.1.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.touchSwipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.touchSwipe.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +54,7 @@
       <workItem from="1619529013294" duration="278000" />
       <workItem from="1619529495364" duration="50527000" />
       <workItem from="1620138336667" duration="23283000" />
-      <workItem from="1621161979421" duration="3210000" />
+      <workItem from="1621161979421" duration="4240000" />
     </task>
     <task id="LOCAL-00001" summary="Project initial">
       <created>1619529606305</created>
@@ -373,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621164823746</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Minification style et index">
+      <created>1621165492589</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1621165492589</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,7 +404,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Allègement des images(index.html), supression de l'ajout &quot;async&quot; car bloque l'agrandissement des images lors du clique, supression de background color blue inutile en arrière plan d'image, d-bloc et white couleur blanche enlever aussi,lien &lt;a&gt; pour les icones dans le footer enlever car inutile.&#10;&#10;Suppression de class pour une couleur blanche (contact.html),&#10;&#10;Supression au niveau du css du bleu et blanc" />
     <MESSAGE value="supression du lien de la page d'accueil lié à l'onglet &quot;Accueil&quot; de menu navigation" />
     <MESSAGE value="Suppression de boutton de contact en début (1) et en milieu de page (2)" />
     <MESSAGE value="Suppression de boutton de contact en début (1) et en milieu de page (2)&#10;Supression de BlackHat sur les &quot;alt&quot; des images" />
@@ -417,6 +428,7 @@
     <MESSAGE value="Ajout du fichier .htaccess" />
     <MESSAGE value="minification du dossier bootstrap" />
     <MESSAGE value="image centré pour les petits ecrans inférieur a 767px" />
-    <option name="LAST_COMMIT_MESSAGE" value="image centré pour les petits ecrans inférieur a 767px" />
+    <MESSAGE value="Minification style et index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minification style et index" />
   </component>
 </project>
